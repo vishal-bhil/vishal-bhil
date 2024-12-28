@@ -5,7 +5,7 @@
 
 <!-- <h3 align="center">Mobile Application Developer</h3> -->
 
-<h4 align="center">Hi, I’m Vishal Bhil, a mobile app developer with over 5 years of experience in React Native, Android, and Flutter. I specialize in creating user-focused apps across various domains, using technologies like Redux, Firebase, and payment gateway integrations to deliver innovative and impactful solutions.</h4>
+<h4 align="center">Hi, I’m Vishal Bhil, a mobile app developer specializing in React Native, Android, and Flutter. I focus on creating user-focused apps across various domains, leveraging technologies like Redux, Firebase, and payment gateway integrations to deliver innovative and impactful solutions.</h4>
 
 <h2>About Me</h2>
 
@@ -21,9 +21,9 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://vishal-bhil.github.io/">My Github Repositories</a>
 
-<h2 align="center">Connect with me</h2>
+
+ <h2 align="center">Connect with me</h2>
 <p align="center">
-  
  <a align="center" href="https://www.linkedin.com/in/vishal-bhil/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="image" width="30px" /></a>
  </p>
 
