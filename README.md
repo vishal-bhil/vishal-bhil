@@ -3,19 +3,19 @@
 </p>
 <h2 align="center">Hi 👋, I'm Vishal Bhil</h2>
 
-<!-- <h3 align="center">Full Stack Web Developer </h3> -->
+<!-- <h3 align="center">Mobile Application Developer</h3> -->
 
-<h4 align="center">A Highly enthusiastic and hardworking developer. A person who is eager to learn new technologies have been able to deliver a consistent approach throughout a challenging period of development.</h4>
+<h4 align="center">Hi, I’m Vishal Bhil, a mobile app developer with over 5 years of experience in React Native, Android, and Flutter. I specialize in creating user-focused apps across various domains, using technologies like Redux, Firebase, and payment gateway integrations to deliver innovative and impactful solutions.</h4>
 
 <h2>About Me</h2>
 
 - 🌱 I’m currently learning Full Stack Web Development
 
-- 💬 Ask me about **ReactJs, HTML, CSS, JavaScipt**
+- 💬 Ask me about **React Native, Android, Flutter, JavaScipt**
 
 - 📫 How to reach me **bhilvishal08@gmail.com**
 
-- 📄 Check Out My <a href="https://drive.google.com/file/d/1on17rBpR6XtNoWAwAqc5kCt5H9PJ4UDQ/view?usp=sharing">Reasume </a>
+- 📄 Check Out My <a href="https://drive.google.com/file/d/1xWd2UgDdjL1qsSxNPlSkEzLWyoHl-7W-/view?usp=sharing">Reasume </a>
 
 - 👨‍💻 Know more about me <a href="https://vishal-bhil.github.io/">Portfolio</a>
 
