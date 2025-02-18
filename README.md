@@ -87,6 +87,13 @@ An educational app for NEET aspirants to explore potential colleges based on the
 - [Google Play Store]() | [Apple App Store]()
 
 ---
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-bhil&layout=compact)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vishal-bhil)](https://git.io/streak-stats)
+
+
+![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishal-bhil&show_icons=true&theme=radical)
+
 
 ### 📬 Let's Connect
 - **LinkedIn:** [Vishal Bhil](https://linkedin.com/in/vishal-bhil)
